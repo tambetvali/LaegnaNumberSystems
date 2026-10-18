@@ -1,3 +1,5 @@
+![Base8](Gfx/NumberSystemsBase8.png)
+
 CoPilot's introduction:
 
 # Why Study Base-8 as a Rank System?
