@@ -1,3 +1,50 @@
+Intro by CoPilot:
+
+# Chapters
+
+This folder contains gradually ordered chapters introducing Laegna Number Systems.
+
+Rather than presenting a single interpretation, the chapters explore multiple compatible viewpoints:
+
+- Number systems as dimensions.
+- Number systems as channels.
+- Number systems as ranks.
+- Number systems as logical structures.
+- Number systems as holographic coordinate systems.
+
+For example, a base-4 representation may be viewed as:
+
+- a one-dimensional number,
+- a two-dimensional number,
+- a two-channel number,
+- or a rank transformation between those forms.
+
+The same structure may appear differently depending on representation, while preserving its internal relations.
+
+Many chapters investigate dimensional remapping:
+
+```text
+1-band ↔ 2-band
+1D ↔ 2D
+local ↔ global
+finite ↔ infinite
+```
+
+A recurring theme is that complexity is not removed, but relocated.
+
+Decimal systems tend to minimize local complexity.
+
+Laegna systems attempt to minimize structural and recursive complexity.
+
+Some chapters contain mathematical observations, others contain models, conjectures, philosophical interpretations, or practical applications related to Laegna Logecs and Laegna Physics.
+
+Whenever possible, each chapter builds upon previous chapters while remaining readable as a standalone introduction.
+
+
+---
+
+My initial intro:
+
 This folder will contain somewhat ordered chapters of introductions to Laegna Number Systems:
 - Not only the 3 primary basis, but actual different paradigms by which they can be used;
   - For example base-4 can be used as two-dimensional, or as one-dimensional system, and those two are then heavily interconnected;
