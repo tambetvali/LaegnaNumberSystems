@@ -1,3 +1,7 @@
+![Laegna Number Systems](LaegnaNumberSystems.png)
+
+<br>
+
 Article by CoPilot:
 
 # LaegnaNumberSystems
