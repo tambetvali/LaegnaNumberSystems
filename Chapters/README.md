@@ -1,3 +1,7 @@
+![Number Systems Chapters Intro](Gfx/NumberSystemsIntroduction.png)
+
+<br>
+
 Intro by CoPilot:
 
 # Chapters
